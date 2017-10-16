@@ -1,3 +1,4 @@
 # one
-static为项目打包后css、js等资源
+static为项目打包后css、js等资源文件夹
+
 index.html为webapp首页
